@@ -1,0 +1,11 @@
+{
+    "/v1/article/test.json": "/v1/article/test",
+    "/v1/data/areaLists.json": "/v1/data/areaLists",
+    "/v1/data/characteristics.json": "/v1/data/characteristics",
+    "/v1/data/city.json": "/v1/data/city",
+    "/v1/data/devices.json": "/v1/data/devices",
+    "/v1/data/houses.json": "/v1/data/houses",
+    "/v1/data/orienteds.json": "/v1/data/orienteds",
+    "/v1/data/roomTypes.json": "/v1/data/roomTypes",
+    "/v1/data/subways.json": "/v1/data/subways"
+}
